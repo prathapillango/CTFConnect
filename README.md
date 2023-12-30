@@ -47,6 +47,7 @@ or
 
 ## Configuration
 Modify the CONFIG_DIR variable in the script (CTFConnect.sh) to specify the directory containing your VPN configuration files.
+CONFIG_DIR="/path/to/your/vpn/configs"
 
 ## License
 

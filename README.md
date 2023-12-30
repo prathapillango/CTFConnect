@@ -19,7 +19,7 @@ it is a automate script for connect to openvpn file like HackTheBox,TryHackme mo
 
 1. Clone the repository to your local machine:
  ```bash
-  git clone https://github.com/prathapillango/CTFConnect.git
+  sudo git clone https://github.com/prathapillango/CTFConnect.git
 ```
 1.Ensure OpenVPN is installed on your system.
 

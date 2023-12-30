@@ -43,7 +43,7 @@ Run the script:
  ```bash
 bash CTFConnect.sh
 or
-./ CTFConnect.sh
+./CTFConnect.sh
 ```
 3.Follow the on-screen instructions to select and connect to a VPN configuration.
 

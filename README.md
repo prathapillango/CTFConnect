@@ -20,6 +20,45 @@ CTFConnect is a simple script designed to facilitate VPN connections for Capture
   git clone https://github.com/prathapillango/CTFConnect.git
 ```
 1.Ensure OpenVPN is installed on your system.
+
 2.Place your VPN configuration files in the specified directory.
+
+## Usage:
+
+1.Navigate to the CTFConnect directory:
+ ```bash
+cd CTFConnect
+```
+2.Copy the CTFConnect.sh to home
+ ```bash
+cp CTFConnect.sh ~
+```
+3. change directory to Home
+```bash
+cd ~
+``` 
+Run the script:
+ ```bash
+bash CTFConnect.sh
+or
+./ CTFConnect.sh
+```
+3.Follow the on-screen instructions to select and connect to a VPN configuration.
+
+## Configuration
+Modify the CONFIG_DIR variable in the script (CTFConnect.sh) to specify the directory containing your VPN configuration files.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Contributions
+Contributions and suggestions are welcome! Feel free to fork the repository and create pull requests with improvements.
+
+## Acknowledgements
+ASCII art generated using manytools.org.
+
+## Support
+For any issues or questions, please open an issue on GitHub.
 
 

@@ -1,6 +1,8 @@
-# CTFConnect
+CTFConnect: Automate VPN Connection for OpenVPN Files
                                               
-CTFConnect is a simple script designed to facilitate VPN connections for Capture The Flag (CTF) competitions or similar scenarios where VPNs are used to access specific network environments or challenges.
+CTFConnect is a user-friendly, automated script designed to simplify and streamline the process of establishing connections to OpenVPN configurations. Specifically crafted for Capture The Flag (CTF) competitions or scenarios requiring secure access to distinct network environments, this tool enables users to effortlessly connect to OpenVPN files with ease.
+
+it is a automate script for connect to openvpn file like HackTheBox,TryHackme more vpn's 
 
 ## Features
 

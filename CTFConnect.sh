@@ -25,7 +25,7 @@ fi
 # Check if the configuration directory exists
 if [ ! -d "$CONFIG_DIR" ]; then
     echo "VPN configuration directory not found."
-    echo "specify the vpn files directory"
+    echo "specify the vpn files directory CONFIG_DIR="/path/to/your/vpn/configs" "
     exit 1
 fi
 

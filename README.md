@@ -4,6 +4,8 @@ CTFConnect is a user-friendly, automated script designed to simplify and streaml
 
 it is a automate script for connect to openvpn file like HackTheBox,TryHackme more vpn's 
 
+#### Medium Writeup: https://medium.com/@prathapilango/ctfconnect-automate-vpn-connection-for-openvpn-files-vpn-tool-prathapilango-6109fa18d3aa
+
 ## Features
 
 - Allows easy selection and connection to different VPN configurations for CTF challenges.
